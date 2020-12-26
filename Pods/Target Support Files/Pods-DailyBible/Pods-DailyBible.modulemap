@@ -1,0 +1,6 @@
+framework module Pods_DailyBible {
+  umbrella header "Pods-DailyBible-umbrella.h"
+
+  export *
+  module * { export * }
+}
